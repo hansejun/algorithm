@@ -24,9 +24,7 @@ sort 216.03041699528694
 merge2 186.48725000023842
 */
 
-let arr3_test = Array.from({ length: 1000000 }, () =>
-  Math.floor(Math.random() * 120000)
-);
+let food = Array.from({ length: 9 }, () => Math.floor(Math.random() * 1000));
 
 /**오리지널 mergeSort */
 function merge(arr1, arr2) {

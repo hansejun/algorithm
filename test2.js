@@ -2,8 +2,8 @@ function test2(str, newStr = "", cnt = 0) {
   if (str.length == 0) return newStr;
   let addStr = cnt == 0 || cnt % 2 == 0 ? str[0].toUpperCase() : str[0];
   return str[0] !== " "
-    ? test2(str.slice(1), (newStr += addStr), ++cnt)
-    : test2(str.slice(1), (newStr += addStr), cnt);
+    ? test2(str.slice(1), newStr + addStr, ++cnt)
+    : test2(str.slice(1), newStr + addStr, cnt);
 }
 
 // console.log
@@ -11,10 +11,6 @@ console.log(test2("try hello world"));
 console.log(test2("yoon ji yong"));
 console.log(test2(" hang hae ninety nine"));
 
-const {
-  name,
-  image: { url: medium },
-} = data;
 // function test2(str) {
 //   let newStr = "";
 //   str = str.toLowerCase();
