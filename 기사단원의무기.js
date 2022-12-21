@@ -1,10 +1,9 @@
 // // 나의 코드 ( 1000만 기준 13s)
 function solution(number, limit, power) {
-  const set = new Set(
-    Array(number)
-      .fill(1)
-      .map((num, idx) => num + idx)
-  );
+  const set = new Set();
+  for (i = 1; i <= number; i++) {
+    set.add(i);
+  }
   let result = 0;
   let initial = 1;
   while (initial <= number) {
