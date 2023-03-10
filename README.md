@@ -1,7 +1,7 @@
 ## 원티드 프리온보딩 2주차
 라이크어로컬 여행 상품 리스트를 보고 장바구니에 저장할 수 있는 사이트 구현
 
-## ****
+[배포]
 http://likealocal-7.s3-website.ap-northeast-2.amazonaws.com/main
 
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
