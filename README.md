@@ -103,7 +103,9 @@ npm run dev
 ## 회고 및 회의록
 
 [회고](https://solwork.notion.site/2-59373cd4edb94b02ae54c352caaaaedc) <br/>
-[기술 및 기능 리뷰](https://www.notion.so/solwork/5416605e445a439d8651621726055820?pvs=4)
+[회의록](https://solwork.notion.site/cfbf7c8530ab43f29695dcac5923fd1c)<br/>
+[기술 및 기능 리뷰](https://github.com/wanted-pre-7/pre-onboarding-9th-2-7/wiki)
+
 
 <br/>
 
