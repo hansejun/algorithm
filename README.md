@@ -59,7 +59,7 @@ npm run dev
 
 <br/>
 
-1. 시계열 차트 만들기 
+<strong>1. 시계열 차트 만들기 </strong>
   <img width="700" alt="1" src="https://user-images.githubusercontent.com/86880916/225871029-51bb40b4-81de-4e93-9f8b-ebe55abc794f.png" alt="1">
 
 <br/>
