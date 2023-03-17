@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-Emotion-DB7093?style=flat-square&logo=emotion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white">
-<img src="https://img.shields.io/badge/Built%20with-recharts-blue](https://img.shields.io/badge/Built%20with-Recharts-1f8efa?style=flat-square&logo=Recharts&logoColor=white"/>
+<img src="[https://img.shields.io/badge/Built%20with-recharts-blue](https://img.shields.io/badge/Built%20with-Recharts-1f8efa?style=flat-square&logo=Recharts&logoColor=white]"/>
 
 
 <br/>
