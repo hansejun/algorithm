@@ -59,7 +59,7 @@ npm run dev
 
 <br/>
 
-<strong>1. 시계열 차트 만들기 </strong>
+1. 시계열 차트 만들기
   <img width="700" alt="1" src="https://user-images.githubusercontent.com/86880916/225871029-51bb40b4-81de-4e93-9f8b-ebe55abc794f.png" alt="1">
 
 <br/>
@@ -138,7 +138,7 @@ npm run dev
 
 ## 회고 및 회의록
 
-[회고](https://solwork.notion.site/2-59373cd4edb94b02ae54c352caaaaedc) <br/>
+[회고](https://solwork.notion.site/3-1d7a2634809f4441b1a96e068d5938ba) <br/> 
 [회의록](https://solwork.notion.site/cfbf7c8530ab43f29695dcac5923fd1c)<br/>
 [기술 및 기능 리뷰](https://github.com/wanted-pre-7/pre-onboarding-9th-2-7/wiki)
 
