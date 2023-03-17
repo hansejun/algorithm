@@ -60,24 +60,24 @@ npm run dev
 <br/>
 
 1. 시계열 차트 만들기 
-  <img width="700" alt="1" src="https://user-images.githubusercontent.com/86880916/225871029-51bb40b4-81de-4e93-9f8b-ebe55abc794f.png">
+  <img width="700" alt="1" src="https://user-images.githubusercontent.com/86880916/225871029-51bb40b4-81de-4e93-9f8b-ebe55abc794f.png" alt="1">
 
 <br/>
 
 2. 호버 기능 구현 
-  <img width="700" src="https://user-images.githubusercontent.com/86880916/225905733-9a9c1cf7-3c79-4a81-871b-52bdb7b64760.gif" alt="2" />
+  <img width="700" src="https://user-images.githubusercontent.com/86880916/225905733-9a9c1cf7-3c79-4a81-871b-52bdb7b64760.gif" alt="2" >
 
 <br/>
 3. 버튼을 통한 필터링
-  <img width="700" src="https://user-images.githubusercontent.com/86880916/225906911-36e610e1-a962-4621-bda6-b7ed113c905f.gif" alt="3"/>
+  <img width="700" src="https://user-images.githubusercontent.com/86880916/225906911-36e610e1-a962-4621-bda6-b7ed113c905f.gif" alt="3">
   
 <br/>
 4. 클릭을 통한 필터링 
-  <img width="700" src=="https://user-images.githubusercontent.com/86880916/225907960-ddeded25-0017-469b-8937-4a6fa7b53477.gif" alt="4" />
+  <img width="700" src=="https://user-images.githubusercontent.com/86880916/225907960-ddeded25-0017-469b-8937-4a6fa7b53477.gif" alt="4" >
   
 <br/>
 5. area / bar 필터링 
-  <img width="700" src="https://user-images.githubusercontent.com/86880916/225908698-f5dbc75f-6f3b-45ed-b9f9-abb3a29b2622.gif" alt="5"/>
+  <img width="700" src="https://user-images.githubusercontent.com/86880916/225908698-f5dbc75f-6f3b-45ed-b9f9-abb3a29b2622.gif" alt="5" >
   
 <br/>
 
