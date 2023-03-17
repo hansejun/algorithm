@@ -69,15 +69,15 @@ npm run dev
 
 <br/>
 3. 버튼을 통한 필터링
-  <img width="700" src="https://user-images.githubusercontent.com/86880916/225906911-36e610e1-a962-4621-bda6-b7ed113c905f.gif"/>
+  <img width="700" src="https://user-images.githubusercontent.com/86880916/225906911-36e610e1-a962-4621-bda6-b7ed113c905f.gif" alt="3"/>
   
 <br/>
 4. 클릭을 통한 필터링 
-  <img width="700" src=="https://user-images.githubusercontent.com/86880916/225907960-ddeded25-0017-469b-8937-4a6fa7b53477.gif" alt="3" />
+  <img width="700" src=="https://user-images.githubusercontent.com/86880916/225907960-ddeded25-0017-469b-8937-4a6fa7b53477.gif" alt="4" />
   
 <br/>
 5. area / bar 필터링 
-  <img width="700" src="https://user-images.githubusercontent.com/86880916/225908698-f5dbc75f-6f3b-45ed-b9f9-abb3a29b2622.gif" alt="4"/>
+  <img width="700" src="https://user-images.githubusercontent.com/86880916/225908698-f5dbc75f-6f3b-45ed-b9f9-abb3a29b2622.gif" alt="5"/>
   
 <br/>
 
