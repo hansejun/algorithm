@@ -73,7 +73,7 @@ npm run dev
   
 <br/>
 4. 클릭을 통한 필터링 
-  <img width="700" src=="https://user-images.githubusercontent.com/86880916/225907960-ddeded25-0017-469b-8937-4a6fa7b53477.gif" alt="4" >
+  <img width="700" src="https://user-images.githubusercontent.com/86880916/225907960-ddeded25-0017-469b-8937-4a6fa7b53477.gif" alt="4" >
   
 <br/>
 5. area / bar 필터링 
