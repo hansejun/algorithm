@@ -65,10 +65,13 @@ npm run dev
 <br/>
 
 2. 호버 기능 구현 
-3. 버튼을 통한 필터링
-4. 클릭을 통한 필터링 
-5. 범례를 통한 area / bar 필터링 
-6. 
+<img width="700" src="https://user-images.githubusercontent.com/86880916/225905733-9a9c1cf7-3c79-4a81-871b-52bdb7b64760.gif" alt="2" />
+
+<br/>
+4. 버튼을 통한 필터링
+5. 클릭을 통한 필터링 
+6. 범례를 통한 area / bar 필터링 
+7. 
 <img src="https://user-images.githubusercontent.com/86880916/224321973-32aa063d-f024-4052-a15c-93f87244d5a3.gif" width="500px"/>
 <br/>
 가격 및 지역 필터링 기능
