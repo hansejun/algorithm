@@ -58,7 +58,17 @@ npm run dev
 ## 🌟 최종 결과
 
 <br/>
-예약 및 모달 기능 
+
+1. 시계열 차트 만들기 
+<img width="700" alt="1" src="https://user-images.githubusercontent.com/86880916/225871029-51bb40b4-81de-4e93-9f8b-ebe55abc794f.png">
+
+<br/>
+
+2. 호버 기능 구현 
+3. 버튼을 통한 필터링
+4. 클릭을 통한 필터링 
+5. 범례를 통한 area / bar 필터링 
+6. 
 <img src="https://user-images.githubusercontent.com/86880916/224321973-32aa063d-f024-4052-a15c-93f87244d5a3.gif" width="500px"/>
 <br/>
 가격 및 지역 필터링 기능
