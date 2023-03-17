@@ -68,17 +68,15 @@ npm run dev
   <img width="700" src="https://user-images.githubusercontent.com/86880916/225905733-9a9c1cf7-3c79-4a81-871b-52bdb7b64760.gif" alt="2" />
 
 <br/>
-4. 버튼을 통한 필터링
-5. 클릭을 통한 필터링 
-6. 범례를 통한 area / bar 필터링 
-7. 
-<img src="https://user-images.githubusercontent.com/86880916/224321973-32aa063d-f024-4052-a15c-93f87244d5a3.gif" width="500px"/>
+3. 버튼을 통한 필터링
+  <img width="700" src="https://user-images.githubusercontent.com/86880916/225906911-36e610e1-a962-4621-bda6-b7ed113c905f.gif"/>
 <br/>
-가격 및 지역 필터링 기능
-<img src="https://user-images.githubusercontent.com/86880916/224322115-b3d492c5-61a4-4cd2-b13f-3081c69eaf30.gif" width="500px"/>
-수량 변경 및 총액 계산 기능
+4. 클릭을 통한 필터링 
+  <img width="700" src=="https://user-images.githubusercontent.com/86880916/225907960-ddeded25-0017-469b-8937-4a6fa7b53477.gif" alt="3" />
 <br/>
-<img src="https://user-images.githubusercontent.com/86880916/224322169-1fc9d429-6a8c-4a65-a92a-dce6ac951aa2.gif" width="500px"/> 
+5. area / bar 필터링 
+  <img width="700" src="https://user-images.githubusercontent.com/86880916/225908698-f5dbc75f-6f3b-45ed-b9f9-abb3a29b2622.gif" alt="4"/>
+
 <br/>
 
 ## **작업 방식 안내**
@@ -120,6 +118,7 @@ npm run dev
 - 총 금액은 예약 상품 변경시마다 reduce()로 계산
 
 7. 장바구니 개별 상품의 수량에 따른 가격 변동도 확인할 수 있도록 유틸 함수 구현
+
 
 - 장바구니에 담긴 상품의 수량이 변경될 때마다, 해당 상품의 가격도 변동. 이를 효율적으로 처리하기 위해 유틸 함수를 구현
 
