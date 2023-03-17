@@ -2,7 +2,7 @@
 
 주어진 데이터를 기반으로 시계열 차트 만들기
 
-### [배포주소](http://likealocal-7.s3-website.ap-northeast-2.amazonaws.com/main)
+### [배포주소](https://wanted-pre-3-7-flexsys.netlify.app/)
 <br/>
 
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
