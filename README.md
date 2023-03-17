@@ -140,7 +140,7 @@ npm run dev
 
 [회고](https://solwork.notion.site/3-1d7a2634809f4441b1a96e068d5938ba) <br/> 
 [회의록](https://solwork.notion.site/cfbf7c8530ab43f29695dcac5923fd1c)<br/>
-[기술 및 기능 리뷰](https://github.com/wanted-pre-7/pre-onboarding-9th-2-7/wiki)
+[기술 및 기능 리뷰](https://github.com/wanted-pre-7/pre-onboarding-9th-3-7/wiki/%EB%A6%AC%EB%B7%B0)
 
 <br/>
 
